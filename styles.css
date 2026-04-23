@@ -1,0 +1,19 @@
+body{
+    background-image: url(bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.container2 {
+    font-family: "Saira", sans-serif;
+    background-color: rgb(39, 41, 52);
+    border-radius: 10px;
+    color:rgb(249, 241, 228);
+    border: 5px solid rgb(255, 241, 179);
+    padding: 5%;
+}
+
+img {
+    margin-left: 200px;
+    
+  }
